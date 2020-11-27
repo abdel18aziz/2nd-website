@@ -1,0 +1,109 @@
+.mydiv{
+  padding-top: 52px;
+}
+.bod{   
+  /* background-color:#99aab5 ;*/
+ /* font-family: serif;
+  font-family: fcst-i5, adobe-notdef;*/
+
+}
+.bod2{
+    padding-bottom: 5em;
+      
+}
+.bod0{
+    padding-bottom: 5em;
+      
+}
+.imlogo{
+  padding-left: 30px;
+}
+.txt{
+    margin-top: 8%;
+    
+}
+.botn{
+    height: 30px;
+    width: 30px;
+    color: #343a40;
+}
+.botn2{
+    height: 30px;
+    width: 30px;
+    color: #343a40;
+}
+.botn3{
+    height: 30px;
+    width: 30px;
+    color: #343a40;
+}
+
+.ban{
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+.display-1,
+.display-2,
+.display-3,
+.display-4 {
+  line-height: 1;
+  word-break: break-word;
+  word-wrap: break-word; }
+
+ .movies{display:inline-block;position:relative;margin:10px 10px 15px;padding:0;width:138px;vertical-align:top;clear:both;text-align:center;}
+         
+.titles{display:block;line-height:22px;margin:0;padding:0;text-align:center;font: size 0.8em;
+color:white;
+
+}
+
+
+.scrolling-wrapper-flexbox {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+  .cardss {
+    flex: 0 0 auto;
+  }
+ .wallp{    /* height: 90%;
+    width: 90% ; 
+    position: center center;
+    margin: 10px 10px 10px 4px
+    */ 
+}
+.jpgimg{
+  width: 110px;
+  height: 138px;
+}
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+ 
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+ 
+/* 4x3 Aspect Ratio */
+.iframe-container-4x3 {
+  padding-top: 75%;
+}
